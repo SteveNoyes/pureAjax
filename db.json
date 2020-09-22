@@ -1,0 +1,16 @@
+[
+  {
+    "firstName" : "Tyler",
+    "lastName" : "Durden",
+    "title" : "web dev",
+    "nickname" : "calm ninja",
+    "email" : "joath@mail.com"
+  },
+  {
+    "firstName" : "Steven",
+    "lastName" : "Noyes",
+    "title" : "jr web dev",
+    "nickname" : "the saint",
+    "email" : "steven@noyes.com"
+  }
+]
